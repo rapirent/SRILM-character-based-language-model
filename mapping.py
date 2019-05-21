@@ -11,10 +11,12 @@ def main():
             zhuyins = zhuyin_items.split('/')
 
             for zhuyin in zhuyins:
-                if zhuyin not in zhuyin_to_character:
-                    zhuyin_to_character[zhuyin[0]] = list(character)
+                if zhuyin[0] not in zhuyin_to_character:
+                    zhuyin_to_character[zhuyin[0]] = [character]
                 else:
                     zhuyin_to_character[zhuyin[0]].append(character)
+            zhuyin_to_character[character] = [character]
+            
     with open(sys.argv[2], 'w', encoding='big5-hkscs') as outputfile:
         for key, value in zhuyin_to_character.items():
         #注意：第一個字/注音後面接的是tab，且後面每一個字之間都有空格。

@@ -1,50 +1,50 @@
-<s> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> 周 杰 倫 </s>
 <s> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> 王 男 <unk> <unk> 雙 <unk> </s>
+<s> 方 力 申 <unk> 司 翰 同 分 <unk> 此 獎 </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> 趙 薇 <unk> <unk> </s>
+<s> 因 <unk> 一 幀 <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 趙 薇 </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> 讓 她 <unk> 在 <unk> <unk> <unk> 出 </s>
 <s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> 台 <unk> 做 </s>
+<s> <unk> <unk> <unk> 反 日 <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 李 彭 廣 <unk> 說 </s>
 <s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
 <s> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 般 <unk> <unk> <unk> </s>
+<s> <unk> <unk> 台 <unk> 趙 薇 <unk> <unk> </s>
+<s> <unk> <unk> <unk> 時 <unk> <unk> </s>
+<s> 再 <unk> <unk> <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> 劉 兆 佳 也 <unk> </s>
+<s> <unk> 台 <unk> 做 </s>
+<s> 是 <unk> <unk> <unk> </s>
+<s> <unk> <unk> 反 日 <unk> </s>
 <s> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> 員 劉 銳 紹 <unk> </s>
 <s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> 據 他 <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> 由 <unk> 較 <unk> <unk> 代 大 得 多 </s>
+<s> <unk> <unk> <unk> <unk> <unk> 排 <unk> <unk> <unk> <unk> </s>
 <s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> 劉 銳 紹 <unk> </s>
+<s> <unk> <unk> 與 較 早 <unk> <unk> <unk> 天 后 張 惠 妹 被 <unk> <unk> 件 <unk> <unk> </s>
+<s> 張 惠 妹 <unk> 是 <unk> <unk> <unk> <unk> </s>
+<s> 而 趙 薇 <unk> 則 <unk> <unk> <unk> 為 <unk> <unk> <unk> <unk> <unk> 此 <unk> </s>
+<s> 他 <unk> </s>
+<s> 趙 薇 在 <unk> <unk> <unk> <unk> 很 <unk> </s>
+<s> <unk> 多 家 <unk> <unk> </s>
+<s> <unk> <unk> 台 <unk> <unk> 的 <unk> <unk> 及 <unk> <unk> <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> 港 台 <unk> <unk> 助 興 </s>
+<s> <unk> 該 台 <unk> <unk> <unk> 趙 薇 <unk> <unk> </s>
+<s> 但 <unk> <unk> 讓 她 <unk> </s>
+<s> <unk> 與 趙 薇 <unk> 因 <unk> <unk> <unk> <unk> 所 <unk> 的 <unk> <unk> </s>
+<s> 普 雷 特 涅 夫 <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 初 <unk> 陸 <unk> </s>
+<s> 有 <unk> 的 <unk> 之 稱 的 該 團 <unk> <unk> 普 雷 特 涅 夫 <unk> <unk> <unk> 賽 <unk> <unk> <unk> <unk> 李 云 迪 <unk> <unk> <unk> <unk> <unk> </s>
+<s> 中 <unk> <unk> </s>
+<s> <unk> <unk> <unk> 被 <unk> <unk> <unk> <unk> <unk> <unk> 奇 跡 </s>
+<s> <unk> <unk> 年 <unk> 即 與 <unk> <unk> 等 <unk> <unk> <unk> <unk> 於 <unk> <unk> </s>
+<s> <unk> 導 </s>
+<s> 普 雷 特 涅 夫 將 <unk> 的 <unk> 與 <unk> <unk> <unk> <unk> </s>
 <s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> 前 <unk> <unk> <unk> 曾 <unk> <unk> 普 氏 <unk> <unk> <unk> <unk> 獎 </s>

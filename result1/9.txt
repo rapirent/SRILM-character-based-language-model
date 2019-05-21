@@ -1,50 +1,50 @@
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> 成 龍 <unk> <unk> 影 </s>
+<s> <unk> 港 府 <unk> <unk> 黑 鷹 <unk> </s>
+<s> 成 龍 <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 外 </s>
+<s> 他 更 對 黑 鷹 <unk> <unk> </s>
+<s> 黑 鷹 <unk> <unk> <unk> 添 馬 艦 <unk> <unk> </s>
+<s> 成 龍 <unk> 組 <unk> 都 <unk> <unk> 及 <unk> <unk> </s>
+<s> <unk> 更 <unk> 在 黑 鷹 前 <unk> <unk> </s>
+<s> 成 龍 <unk> </s>
+<s> <unk> <unk> 只 准 成 龍 <unk> <unk> <unk> </s>
+<s> <unk> <unk> <unk> 再 灑 <unk> </s>
+<s> <unk> <unk> 批 <unk> 置 於 <unk> </s>
+<s> 當 黑 鷹 <unk> 後 </s>
 <s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
+<s> 再 <unk> <unk> 飛 虎 隊 <unk> 成 龍 上 機 </s>
+<s> <unk> <unk> 後 </s>
+<s> 在 <unk> 上 便 <unk> 一 隊 <unk> 在 黑 鷹 <unk> 落 <unk> </s>
+<s> <unk> 港 府 <unk> <unk> <unk> 一 班 黑 鷹 <unk> <unk> </s>
+<s> 黑 鷹 在 <unk> 便 <unk> <unk> </s>
+<s> 成 龍 <unk> <unk> 借 黑 鷹 拍 <unk> </s>
 <s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> 它 是 港 產 片 <unk> 有 黑 鷹 <unk> 的 <unk> </s>
+<s> 黑 鷹 <unk> <unk> <unk> 儀 <unk> <unk> <unk> <unk> 鷹 </s>
+<s> 早 <unk> <unk> <unk> <unk> <unk> </s>
+<s> 劉 德 華 連 捧 <unk> 獎 是 <unk> <unk> 勁 爆 <unk> 大 <unk> </s>
+<s> 由 <unk> <unk> <unk> <unk> <unk> 勁 爆 <unk> 禮 <unk> 在 <unk> <unk> <unk> </s>
+<s> <unk> 共 <unk> <unk> <unk> 獎 項 </s>
+<s> <unk> <unk> 劉 德 華 <unk> <unk> <unk> 獎 項 </s>
 <s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> 但 <unk> 也 屬 <unk> 天 后 <unk> 張 <unk> 及 王 菲 則 只 <unk> <unk> <unk> 及 <unk> 獎 項 </s>
 <s> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> <unk> 憂 </s>
+<s> <unk> <unk> <unk> <unk> 張 <unk> 表 <unk> <unk> </s>
+<s> 劉 德 華 <unk> <unk> </s>
+<s> 搶 盡 <unk> 共 捧 了 <unk> 大 獎 </s>
+<s> <unk> <unk> 男 <unk> 獎 <unk> 勁 爆 <unk> 男 <unk> <unk> <unk> 大 獎 <unk> 首 勁 爆 <unk> 獎 項 </s>
+<s> 而 陳 奕 迅 就 僅 <unk> <unk> 獎 </s>
+<s> <unk> <unk> 獎 項 </s>
+<s> 女 <unk> <unk> </s>
+<s> <unk> <unk> 要 <unk> <unk> <unk> 的 鄭 秀 文 </s>
+<s> <unk> <unk> 半 獎 </s>
+<s> <unk> 郭 富 城 陳 慧 琳 謝 霆 鋒 及 過 江 龍 <unk> <unk> 周 杰 倫 各 <unk> <unk> 獎 </s>
+<s> 天 后 王 菲 <unk> 張 <unk> 就 稍 遜 <unk> </s>
+<s> 王 菲 得 <unk> 獎 </s>
+<s> 張 <unk> <unk> 個 獎 </s>
+<s> 而 <unk> <unk> 就 <unk> 因 事 <unk> <unk> <unk> 禮 </s>
+<s> <unk> <unk> <unk> 場 直 播 </s>
+<s> <unk> <unk> 得 獎 <unk> 都 <unk> <unk> 鐘 <unk> <unk> <unk> <unk> <unk> </s>
+<s> 一 眾 <unk> 的 <unk> 都 <unk> <unk> <unk> </s>
+<s> 劉 德 華 <unk> <unk> 大 <unk> </s>
+<s> 連 <unk> <unk> <unk> <unk> 勁 </s>

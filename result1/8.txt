@@ -1,50 +1,50 @@
-<s> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> <unk> <unk> 好 </s>
 <s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
 <s> <unk> <unk> <unk> <unk> <unk> </s>
 <s> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> 己 <unk> <unk> </s>
+<s> <unk> <unk> 了 被 <unk> <unk> <unk> <unk> 想 過 <unk> <unk> 圈 </s>
+<s> 容 祖 兒 <unk> </s>
+<s> <unk> 想 過 <unk> </s>
+<s> <unk> 她 <unk> <unk> <unk> <unk> 事 </s>
+<s> <unk> <unk> <unk> 事 </s>
+<s> <unk> <unk> 想 過 要 <unk> </s>
+<s> 她 <unk> </s>
+<s> <unk> <unk> 後 </s>
+<s> 使 她 <unk> <unk> 事 有 <unk> </s>
+<s> 都 <unk> <unk> </s>
 <s> <unk> <unk> </s>
+<s> 被 問 及 <unk> <unk> 傳 媒 <unk> <unk> 她 很 大 <unk> </s>
+<s> 容 祖 兒 <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 批 傳 媒 跟 著 她 </s>
+<s> <unk> 說 <unk> 有 <unk> <unk> 她 <unk> </s>
+<s> 但 她 看 後 <unk> <unk> <unk> <unk> </s>
+<s> <unk> 每 份 <unk> <unk> <unk> </s>
+<s> 總 有 <unk> <unk> </s>
+<s> <unk> <unk> 是 <unk> 要 <unk> <unk> </s>
+<s> <unk> 著 <unk> <unk> <unk> 的 容 祖 兒 <unk> 令 她 <unk> </s>
+<s> 容 祖 兒 <unk> </s>
 <s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> </s>
+<s> 她 並 學 懂 了 <unk> 用 <unk> <unk> 就 用 <unk> </s>
+<s> <unk> <unk> <unk> 用 想 <unk> </s>
+<s> <unk> <unk> <unk> 會 給 她 <unk> <unk> </s>
+<s> 但 她 <unk> 醒 <unk> <unk> 想 <unk> </s>
+<s> <unk> 是 <unk> <unk> <unk> </s>
+<s> <unk> 她 <unk> <unk> <unk> <unk> <unk> </s>
+<s> 她 <unk> <unk> <unk> 和 <unk> 的 </s>
+<s> <unk> 二 <unk> <unk> <unk> <unk> </s>
+<s> 容 祖 兒 <unk> </s>
+<s> <unk> <unk> <unk> 月 <unk> 些 <unk> <unk> </s>
+<s> 總 括 來 說 </s>
+<s> 是 較 <unk> <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> 會 </s>
+<s> <unk> <unk> 了 <unk> <unk> </s>
 <s> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> 容 祖 兒 <unk> </s>
+<s> <unk> 初 她 <unk> 去 <unk> <unk> <unk> </s>
+<s> <unk> 和 <unk> <unk> 各 佔 她 <unk> <unk> </s>
+<s> <unk> <unk> 會 <unk> 兩 張 <unk> 及 兩 套 <unk> </s>
+<s> <unk> 她 <unk> <unk> <unk> <unk> <unk> </s>
+<s> 成 龍 獲 港 府 <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> <unk> <unk> 業 <unk> <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> 黑 鷹 三 <unk> </s>

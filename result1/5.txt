@@ -1,50 +1,50 @@
-<s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> 魔 戒 <unk> </s>
+<s> 魔 戒 <unk> <unk> 雄 崌 <unk> <unk> <unk> 年 <unk> <unk> <unk> 的 <unk> <unk> <unk> </s>
+<s> 發 片 商 新 線 <unk> <unk> <unk> </s>
+<s> 該 片 <unk> <unk> <unk> <unk> <unk> <unk> <unk> 跨 <unk> <unk> 的 <unk> </s>
+<s> 魔 戒 <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> 佳 評 如 潮 </s>
+<s> <unk> <unk> 的 <unk> <unk> 均 <unk> <unk> <unk> </s>
+<s> <unk> <unk> 的 <unk> 共 <unk> 億 <unk> <unk> 餘 <unk> </s>
+<s> 自 <unk> <unk> <unk> 的 <unk> <unk> </s>
+<s> 魔 戒 <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 庫 隆 尼 與 茱 麗 亞 蘿 勃 茲 <unk> 牌 <unk> <unk> 的 <unk> </s>
+<s> <unk> 的 <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> 片 阿 里 </s>
 <s> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 開 局 </s>
 <s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
+<s> 僅 <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> 由 <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> 緊 追 阿 里 <unk> </s>
 <s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> 由 阿 湯 哥 湯 姆 克 魯 斯 <unk> 歡 潘 妮 洛 普 克 魯 茲 同 台 <unk> 的 <unk> <unk> </s>
+<s> <unk> 部 佳 片 <unk> <unk> </s>
 <s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> 的 <unk> </s>
+<s> 新 線 <unk> <unk> 再 <unk> <unk> </s>
+<s> <unk> <unk> 兩 億 <unk> <unk> <unk> 魔 戒 <unk> </s>
+<s> 魔 戒 <unk> <unk> 集 與 <unk> 集 </s>
+<s> 並 <unk> <unk> 於 <unk> <unk> <unk> <unk> 獻 映 </s>
+<s> <unk> <unk> <unk> <unk> 榜 單 比 吉 斯 三 <unk> 同 獲 <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> 榜 單 </s>
+<s> <unk> 的 <unk> 比 吉 斯 <unk> <unk> 三 <unk> </s>
 <s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> <unk> 的 周 末 <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> 不 衰 </s>
+<s> 比 吉 斯 <unk> 三 <unk> 巴 瑞 點 吉 布 與 <unk> 羅 賓 與 毛 里 斯 </s>
+<s> <unk> 以 <unk> 走 紅 </s>
+<s> 三 <unk> <unk> <unk> <unk> 島 </s>
+<s> <unk> <unk> 隨 <unk> <unk> <unk> </s>
 <s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> 是 <unk> 的 <unk> </s>
+<s> 比 吉 斯 <unk> 被 <unk> 四 的 <unk> 伊 普 斯 坦 <unk> <unk> 後 </s>
+<s> <unk> <unk> <unk> 前 <unk> 大 單 曲 <unk> 中 </s>
+<s> <unk> <unk> <unk> 張 單 曲 </s>
+<s> <unk> <unk> 張 是 <unk> <unk> 曲 </s>
+<s> <unk> 八 年 <unk> <unk> <unk> 屆 伏 塔 <unk> 的 周 末 <unk> <unk> </s>
+<s> <unk> 曲 由 比 吉 斯 <unk> <unk> <unk> </s>
+<s> 這 張 <unk> <unk> <unk> <unk> <unk> <unk> </s>
+<s> <unk> 麥 可 <unk> <unk> 驚 悚 <unk> </s>
+<s> 但 周 末 <unk> <unk> <unk> 最 <unk> <unk> 影 <unk> </s>
+<s> <unk> <unk> <unk> <unk> <unk> <unk> 有 <unk> <unk> <unk> <unk> 列 諾 克 斯 點 <unk> </s>
+<s> <unk> <unk> 傳 <unk> 男 <unk> 班 點 金 斯 利 </s>
