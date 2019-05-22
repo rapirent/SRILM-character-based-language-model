@@ -11,10 +11,11 @@ def main():
             zhuyins = zhuyin_items.split('/')
 
             for zhuyin in zhuyins:
-                if zhuyin[0] not in zhuyin_to_character:
-                    zhuyin_to_character[zhuyin[0]] = [character]
-                else:
+                if zhuyin[0] in zhuyin_to_character:
                     zhuyin_to_character[zhuyin[0]].append(character)
+                else:
+                    zhuyin_to_character[zhuyin[0]] = [character]
+        
             zhuyin_to_character[character] = [character]
             
     with open(sys.argv[2], 'w', encoding='big5-hkscs') as outputfile:

@@ -1,50 +1,50 @@
-<s> <unk> 成 龍 <unk> <unk> 影 </s>
-<s> <unk> 港 府 <unk> <unk> 黑 鷹 <unk> </s>
-<s> 成 龍 <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 外 </s>
-<s> 他 更 對 黑 鷹 <unk> <unk> </s>
-<s> 黑 鷹 <unk> <unk> <unk> 添 馬 艦 <unk> <unk> </s>
-<s> 成 龍 <unk> 組 <unk> 都 <unk> <unk> 及 <unk> <unk> </s>
-<s> <unk> 更 <unk> 在 黑 鷹 前 <unk> <unk> </s>
-<s> 成 龍 <unk> </s>
-<s> <unk> <unk> 只 准 成 龍 <unk> <unk> <unk> </s>
-<s> <unk> <unk> <unk> 再 灑 <unk> </s>
-<s> <unk> <unk> 批 <unk> 置 於 <unk> </s>
-<s> 當 黑 鷹 <unk> 後 </s>
-<s> <unk> <unk> <unk> </s>
-<s> 再 <unk> <unk> 飛 虎 隊 <unk> 成 龍 上 機 </s>
-<s> <unk> <unk> 後 </s>
-<s> 在 <unk> 上 便 <unk> 一 隊 <unk> 在 黑 鷹 <unk> 落 <unk> </s>
-<s> <unk> 港 府 <unk> <unk> <unk> 一 班 黑 鷹 <unk> <unk> </s>
-<s> 黑 鷹 在 <unk> 便 <unk> <unk> </s>
-<s> 成 龍 <unk> <unk> 借 黑 鷹 拍 <unk> </s>
-<s> <unk> <unk> <unk> </s>
-<s> <unk> 它 是 港 產 片 <unk> 有 黑 鷹 <unk> 的 <unk> </s>
-<s> 黑 鷹 <unk> <unk> <unk> 儀 <unk> <unk> <unk> <unk> 鷹 </s>
-<s> 早 <unk> <unk> <unk> <unk> <unk> </s>
-<s> 劉 德 華 連 捧 <unk> 獎 是 <unk> <unk> 勁 爆 <unk> 大 <unk> </s>
-<s> 由 <unk> <unk> <unk> <unk> <unk> 勁 爆 <unk> 禮 <unk> 在 <unk> <unk> <unk> </s>
-<s> <unk> 共 <unk> <unk> <unk> 獎 項 </s>
-<s> <unk> <unk> 劉 德 華 <unk> <unk> <unk> 獎 項 </s>
-<s> <unk> <unk> <unk> <unk> </s>
-<s> 但 <unk> 也 屬 <unk> 天 后 <unk> 張 <unk> 及 王 菲 則 只 <unk> <unk> <unk> 及 <unk> 獎 項 </s>
-<s> <unk> <unk> </s>
-<s> <unk> <unk> <unk> 憂 </s>
-<s> <unk> <unk> <unk> <unk> 張 <unk> 表 <unk> <unk> </s>
-<s> 劉 德 華 <unk> <unk> </s>
-<s> 搶 盡 <unk> 共 捧 了 <unk> 大 獎 </s>
-<s> <unk> <unk> 男 <unk> 獎 <unk> 勁 爆 <unk> 男 <unk> <unk> <unk> 大 獎 <unk> 首 勁 爆 <unk> 獎 項 </s>
-<s> 而 陳 奕 迅 就 僅 <unk> <unk> 獎 </s>
-<s> <unk> <unk> 獎 項 </s>
-<s> 女 <unk> <unk> </s>
-<s> <unk> <unk> 要 <unk> <unk> <unk> 的 鄭 秀 文 </s>
-<s> <unk> <unk> 半 獎 </s>
-<s> <unk> 郭 富 城 陳 慧 琳 謝 霆 鋒 及 過 江 龍 <unk> <unk> 周 杰 倫 各 <unk> <unk> 獎 </s>
-<s> 天 后 王 菲 <unk> 張 <unk> 就 稍 遜 <unk> </s>
-<s> 王 菲 得 <unk> 獎 </s>
-<s> 張 <unk> <unk> 個 獎 </s>
-<s> 而 <unk> <unk> 就 <unk> 因 事 <unk> <unk> <unk> 禮 </s>
-<s> <unk> <unk> <unk> 場 直 播 </s>
-<s> <unk> <unk> 得 獎 <unk> 都 <unk> <unk> 鐘 <unk> <unk> <unk> <unk> <unk> </s>
-<s> 一 眾 <unk> 的 <unk> 都 <unk> <unk> <unk> </s>
-<s> 劉 德 華 <unk> <unk> 大 <unk> </s>
-<s> 連 <unk> <unk> <unk> <unk> 勁 </s>
+<s> 參 與 成 龍 主 演 的 電 影 </s>
+<s> 對 於 港 府 這 次 解 除 黑 鷹 拍 片 </s>
+<s> 成 龍 除 了 感 謝 香 港 政 府 大 力 支 持 電 影 事 業 外 </s>
+<s> 他 更 對 黑 鷹 甚 為 好 奇 </s>
+<s> 黑 鷹 昨 天 上 午 降 落 添 馬 艦 直 升 機 停 機 坪 </s>
+<s> 成 龍 與 全 組 工 作 人 員 都 十 分 雀 躍 及 鼓 掌 歡 迎 </s>
+<s> 大 家 更 真 相 在 黑 鷹 前 護 照 留 念 </s>
+<s> 成 龍 表 示 </s>
+<s> 由 於 警 方 只 准 成 龍 一 人 登 機 飛 行 </s>
+<s> 第 一 公 司 惟 有 再 灑 金 錢 </s>
+<s> 製 造 了 一 批 假 人 置 於 機 上 </s>
+<s> 當 黑 鷹 著 陸 後 </s>
+<s> 立 即 搬 出 假 人 </s>
+<s> 再 派 遣 一 批 飛 虎 隊 跟 隨 成 龍 上 機 </s>
+<s> 教 館 剪 接 後 </s>
+<s> 在 銀 幕 上 便 儼 如 一 隊 人 馬 在 黑 鷹 的 失 落 差 面 </s>
+<s> 隸 屬 港 府 飛 行 服 務 隊 的 一 班 黑 鷹 機 師 表 示 </s>
+<s> 黑 鷹 在 明 年 便 正 式 退 役 </s>
+<s> 成 龍 這 次 能 夠 借 黑 鷹 拍 電 影 </s>
+<s> 可 謂 十 分 幸 運 </s>
+<s> 相 信 它 是 港 產 片 唯 一 有 黑 鷹 率 相 的 影 片 </s>
+<s> 黑 鷹 備 有 紅 外 線 電 話 儀 擅 長 一 間 發 行 的 黑 鷹 </s>
+<s> 早 前 美 國 出 兵 阿 富 汗 也 有 參 戰 </s>
+<s> 劉 德 華 連 捧 五 個 獎 是 今 年 香 港 勁 爆 樂 壇 大 贏 家 </s>
+<s> 由 香 港 新 城 電 台 主 辦 的 新 城 勁 爆 北 季 禮 昨 晚 在 會 議 長 林 中 心 舉 行 </s>
+<s> 典 禮 共 頒 發 五 十 七 個 獎 項 </s>
+<s> 其 中 有 人 劉 德 華 個 人 奪 得 五 個 獎 項 </s>
+<s> 成 為 今 年 的 第 一 家 </s>
+<s> 但 同 樣 也 屬 天 王 天 后 級 的 張 學 友 及 王 菲 則 只 分 別 獲 得 英 國 及 兩 個 獎 項 </s>
+<s> 這 可 結 果 </s>
+<s> 有 人 歡 喜 一 人 憂 </s>
+<s> 今 年 香 港 與 他 的 第 一 張 川 局 表 結 果 出 爐 </s>
+<s> 劉 德 華 固 然 不 負 眾 望 </s>
+<s> 搶 盡 風 頭 共 捧 了 五 個 大 獎 </s>
+<s> 包 括 亞 洲 男 歌 手 獎 全 球 勁 爆 歌 手 男 歌 手 不 放 招 商 大 獎 及 一 首 勁 爆 歌 曲 獎 項 </s>
+<s> 而 陳 奕 迅 就 僅 落 後 一 個 獎 </s>
+<s> 獲 得 三 個 獎 項 </s>
+<s> 女 歌 雙 方 面 </s>
+<s> 今 年 全 力 要 收 復 樂 壇 失 地 的 鄭 秀 文 </s>
+<s> 獲 得 三 個 半 獎 </s>
+<s> 其 次 郭 富 城 陳 慧 琳 謝 霆 鋒 及 過 江 龍 頭 完 工 商 周 杰 倫 各 地 點 三 個 獎 </s>
+<s> 天 后 王 菲 天 王 張 姓 友 就 稍 遜 一 籌 </s>
+<s> 王 菲 得 兩 個 獎 </s>
+<s> 張 學 友 得 一 個 獎 </s>
+<s> 而 兩 人 昨 晚 就 同 樣 因 事 沒 有 出 席 頒 獎 禮 </s>
+<s> 由 於 頒 獎 典 禮 是 現 場 直 播 </s>
+<s> 所 以 每 位 得 獎 歌 手 都 只 有 一 分 鐘 的 時 間 是 台 演 唱 會 及 歌 曲 </s>
+<s> 一 眾 共 識 的 歌 迷 都 熱 烈 支 持 偶 像 </s>
+<s> 劉 德 華 視 這 次 的 大 贏 家 </s>
+<s> 連 歌 迷 也 是 最 多 最 有 勁 </s>

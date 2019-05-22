@@ -18,6 +18,8 @@ FROM = Big5-ZhuYin.map
 TESTDIR=result1
 TESTDATA=testdata
 
+MYDISAMBIGDIR=result2
+
 all: $(TARGET)
 
 $(TARGET): $(OBJ) -loolm -ldstruct -lmisc
@@ -39,9 +41,10 @@ test:
 
 run:
 	@#TODO How to run your code toward different txt? 
+	@[ -d $(MYDISAMBIGDIR) ] || mkdir -p $(MYDISAMBIGDIR);
 	@for i in $(shell seq 1 10) ; do \
 	    echo "Running $$i.txt"; \
-	    ./mydisambig -text testdata/$$i.txt -map $(TO) -lm $(LM) -order 2 > result2/$$i.txt; \
+	    ./mydisambig -text testdata/$$i.txt -map $(TO) -lm $(LM) -order 2 > $(MYDISAMBIGDIR)/$$i.txt; \
 	done;
 map:
 	@#TODO How to map?
