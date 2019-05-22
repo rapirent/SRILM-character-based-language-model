@@ -40,7 +40,7 @@ test:
 	done;
 
 run:
-	@#TODO How to run your code toward different txt? 
+	@#TODO How to run your code toward different txt?
 	@[ -d $(MYDISAMBIGDIR) ] || mkdir -p $(MYDISAMBIGDIR);
 	@for i in $(shell seq 1 10) ; do \
 	    echo "Running $$i.txt"; \
