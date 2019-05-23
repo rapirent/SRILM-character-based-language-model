@@ -28,10 +28,12 @@ $(TARGET): $(OBJ) -loolm -ldstruct -lmisc
 %.o: %.cpp
 	$(CXX) $(CXXFLAGS) -c $<
 
-build_lm:
-	perl separator_big5.pl corpus.txt > corpus_seg.txt
+bigram:
 	$(SRIPATH)/bin/$(MACHINE_TYPE)/ngram-count -text corpus_seg.txt -write lm.cnt -order 2
 	$(SRIPATH)/bin/$(MACHINE_TYPE)/ngram-count -read lm.cnt -lm bigram.lm -unk -order 2
+
+separte:
+	perl separator_big5.pl corpus.txt > seg_corpus.txt
 
 test:
 	[ -d $(TESTDIR) ] || mkdir -p $(TESTDIR);
